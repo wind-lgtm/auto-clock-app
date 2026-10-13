@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动打卡助手</string>
+    <string name="accessibility_description">自动打卡无障碍服务，用于模拟点击钉钉进行打卡操作</string>
+</resources>
